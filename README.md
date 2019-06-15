@@ -1,2 +1,2 @@
 # traceroute-in-C
-An implementation of the traceroute tool using C 
+An implementation of the packet tracing tool using C
